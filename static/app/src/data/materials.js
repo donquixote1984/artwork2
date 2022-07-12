@@ -1,0 +1,126 @@
+export const SofaMaterials = [
+	{
+		shader: 'wood',
+		selections: [
+			{
+				id: 'wood1',
+				image: 'content/demo2/tex/single_sofa/wood/wood1/standardplane_initialShadingGroup_BaseColor.png'
+			},{
+				id: 'wood2',
+				image: 'content/demo2/tex/single_sofa/wood/wood2/standardplane_initialShadingGroup_BaseColor.png'
+			},
+			{
+				id: 'wood3',
+				image: 'content/demo2/tex/single_sofa/wood/wood3/standardplane_initialShadingGroup_BaseColor.png'
+			},
+			{
+				id: 'wood4',
+				image: 'content/demo2/tex/single_sofa/wood/wood4/standardplane_initialShadingGroup_BaseColor.png'
+			}
+		]
+	},
+	{
+		shader: 'sofa',
+		selections: [
+			{
+				id: 'sofa1',
+				image: 'content/demo2/tex/single_sofa/sofa/sofa1/standardplane_initialShadingGroup_BaseColor.png'
+			},
+			{
+				id: 'sofa2',
+				image: 'content/demo2/tex/single_sofa/sofa/sofa2/standardplane_initialShadingGroup_BaseColor.png'
+			},
+			{
+				id: 'sofa3',
+				image: 'content/demo2/tex/single_sofa/sofa/sofa3/standardplane_initialShadingGroup_BaseColor.png'
+			},
+			{
+				id: 'sofa4',
+				image: 'content/demo2/tex/single_sofa/sofa/sofa4/standardplane_initialShadingGroup_BaseColor.png'
+			}
+		]
+	}
+]
+
+export const CabinetMaterials = [
+{
+	shader: "cabinet",
+	selections: [
+		{
+			id: 'cab1',
+			image: 'content/demo2/tex/single_cabinet/style1/standardplane_initialShadingGroup_BaseColor.png'
+		},
+		{
+			id: 'cab2',
+			image: 'content/demo2/tex/single_cabinet/style2/standardplane_initialShadingGroup_BaseColor.png'
+		},
+		{
+			id: 'cab3',
+			image: 'content/demo2/tex/single_cabinet/style3/standardplane_initialShadingGroup_BaseColor.png'
+		},
+		{
+			id: 'cab4',
+			image: 'content/demo2/tex/single_cabinet/style4/standardplane_initialShadingGroup_BaseColor.png'
+		},
+		{
+			id: 'cab5',
+			image: 'content/demo2/tex/single_cabinet/style5/standardplane_initialShadingGroup_BaseColor.png'
+		}
+	]
+}]
+
+export const DinnerAssets = [
+{
+	shader: 'table',
+	selections: [
+		{
+		id: 0,
+		image: 'content/demo2/tex/dinner_set/table/table1.png'
+		}, {
+			id: 1,
+			image: 'content/demo2/tex/dinner_set/table/table2.png'
+		},{
+			id: 2,
+			image: 'content/demo2/tex/dinner_set/table/table3.png'
+		},{
+			id: 3,
+			image: 'content/demo2/tex/dinner_set/table/table4.png'
+		}
+		,{
+			id: 4,
+			image: 'content/demo2/tex/dinner_set/table/table5.png'
+		}
+	]
+},
+{
+	shader: 'lamp',
+	selections: [
+		{
+			id: 0,
+			image: 'content/demo2/tex/dinner_set/lamp/lamp1.png'
+		},
+		{
+			id: 1,
+			image: 'content/demo2/tex/dinner_set/lamp/lamp2.png'
+		}
+	]
+},
+{
+	shader: 'chair',
+	selections: [
+		{
+			id: 0,
+			image: 'content/demo2/tex/dinner_set/chair/chair1.png'
+		},{
+			id: 1,
+			image: 'content/demo2/tex/dinner_set/chair/chair2.png'
+		},{
+			id: 2,
+			image: 'content/demo2/tex/dinner_set/chair/chair3.png'
+		},{
+			id: 3,
+			image: 'content/demo2/tex/dinner_set/chair/chair4.png'
+		},
+	]
+}
+]
